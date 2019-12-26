@@ -1,0 +1,5 @@
+100,cyber security,İzmir,25.12.2020
+101,Machine Learning,İzmir,29.12.2020
+102,Java Programming Course,Osmaniye,08.12.2020
+103,Ethical Hacker,Rize,18.12.2020
+104,Office Programs,Trabzon,31.12.2020
