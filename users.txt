@@ -1,6 +1,5 @@
 username,username,user,user,Male,Ankara,velikrgl@hotmail.com,22
 username2,username2,user2,user2,Male,Osmaniye,velikrgl@yahoo.com,23
 username3,username3,user3,user3,Male,Ankara,velikrgl@hotmail.com,22
-ur,ur,ur,ur,Male,Ankara,velikrgl@hotmail.com,22
 ur,ur,a,a,Male,Ankara,velikrgl@hotmail.com,21
-a,a,a,a,Male,İstanbul,velikrgl@hotmail.com,22
+a,a,Veli,a,Male,Ankara,velikrgl@hotmail.com,21
