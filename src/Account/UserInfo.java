@@ -105,8 +105,7 @@ public class UserInfo {
             if(z.findUser(username,password))
             {
                 return true;
-            }
-            
+            }     
         }
     
     return false;
